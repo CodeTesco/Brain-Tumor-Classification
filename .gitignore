@@ -1,5 +1,6 @@
 dataset/
 dataset
+my_checkpoints.weights.h5
 
 __pycache__/
 *.py[cod]
